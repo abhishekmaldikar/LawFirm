@@ -1,0 +1,26 @@
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 6rem;
+}
+
+.navLinks{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    cursor: pointer;
+    color: white;
+}
+
+.navButton{
+    color: white;
+    width: 172px;
+    height: 47px;
+    border: 2px solid white;
+}
+
+.navButton :hover{
+    border-color: white !important;
+}
