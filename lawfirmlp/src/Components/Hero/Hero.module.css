@@ -1,0 +1,40 @@
+.HeroMain{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 8rem;
+}
+.HeroText{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    justify-content: center;
+    width: 700px;
+    height: 500px;
+    gap: 2rem;
+}
+.HeroText h2{
+    text-align: left;
+    font-weight: 500;
+}
+.HeroText h1{
+    text-align: left;
+    font-weight: 500;
+}
+.ImgContainer{
+    position: relative;
+}
+.HeroImg{
+    width: 467.71px;
+    height: 467.71px;
+    position: relative;
+    z-index: 1;
+}
+.HeroImg2{
+    width: 443.51px;
+    height: 800px;
+    position: absolute;
+    z-index: 2;
+    top: -186px;
+    left: 0px;
+}
