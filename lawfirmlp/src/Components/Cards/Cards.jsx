@@ -34,7 +34,7 @@ const Cards = () => {
           </Typography>
         </CardContent>
         <CardActions>
-          <Button variant="outlined" borderRadius="10px" sx={{backgroundColor : "#E3B748", borderColor : "#E3B748" , color : "black"}}>
+          <Button variant="outlined" borderRadius="10px" sx={{backgroundColor : "#E3B748", borderColor : "#E3B748" , color : "black", borderRadius : "20px"}}>
             Read More
           </Button>
         </CardActions>

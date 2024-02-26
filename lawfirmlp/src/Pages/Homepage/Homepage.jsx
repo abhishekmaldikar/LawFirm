@@ -5,6 +5,7 @@ import Hero from '../../Components/Hero/Hero';
 import Intro from '../../Components/Introduction/Intro';
 import WhyChooseUs from '../../Components/WhyChooseUs/WhyChooseUs';
 import {Container} from '@mui/material'
+import AreaofPractices from '../../Components/AreaofPractices/AreaofPractices';
 
 const Homepage = () => {
   return (
@@ -13,6 +14,7 @@ const Homepage = () => {
         <Hero />
         <Intro />
         <WhyChooseUs/>
+        <AreaofPractices />
     </div>
   )
 }
