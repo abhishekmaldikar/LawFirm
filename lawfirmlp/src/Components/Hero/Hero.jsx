@@ -9,7 +9,7 @@ const Hero = () => {
   return (
     <div className={styles.HeroMain}>
       <div className={styles.HeroText}>
-        <Typography variant="h1" >You don't have to Fight them Alone.</Typography>
+        <Typography variant="h2" >You don't have to Fight them Alone.</Typography>
         <Typography variant="h6" sx={{color : "gray"}}>
           Lorem ipsum dolor sit amet consectetur adipiscing elit blandit,
           curabitur sodales conubia ut inceptos faucibus himenaeos tortor eget,

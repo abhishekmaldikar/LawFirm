@@ -2,7 +2,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 8rem;
+    gap: 2rem;
+    margin-top: 3rem;
 }
 .HeroText{
     display: flex;
@@ -11,7 +12,7 @@
     justify-content: center;
     width: 700px;
     height: 500px;
-    gap: 2rem;
+    gap: 1rem;
 }
 .HeroText h2{
     text-align: left;

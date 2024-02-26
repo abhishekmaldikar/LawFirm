@@ -1,0 +1,9 @@
+.IntroSection{
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    gap: 4rem;
+    height: 25vh;
+}

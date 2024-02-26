@@ -1,0 +1,11 @@
+.ChooseUs{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap : 5rem
+}
+.Cards{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
