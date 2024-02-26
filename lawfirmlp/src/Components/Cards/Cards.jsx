@@ -1,4 +1,5 @@
 import React from "react";
+import styles from "./Cards.module.css"
 import {
   Card,
   CardActions,
@@ -15,18 +16,7 @@ const Cards = () => {
     <Box>
       <Card
         variant="outlined"
-        sx={{
-          width: "320px",
-          height: "377px",
-          borderRadius: "20px",
-          display: "flex",
-          flexDirection: "column",
-          alignItems: "start",
-          gap: "2rem",
-          paddingTop: "0.5rem",
-          backgroundColor: "inherit",
-          borderColor: "#333333"
-        }}
+        className={styles.customContainer}
       >
         <img src={Gift} alt="Gift-Icon" height="101px" style={{paddingLeft : "1rem"}}/>
 
