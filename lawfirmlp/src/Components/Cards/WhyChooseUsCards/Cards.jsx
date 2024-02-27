@@ -9,7 +9,7 @@ import {
   Typography,
   Box,
 } from "@mui/material";
-import Gift from "../../Assests/Gift.svg";
+import Gift from "../../../Assests/Gift.svg";
 
 const Cards = () => {
   return (

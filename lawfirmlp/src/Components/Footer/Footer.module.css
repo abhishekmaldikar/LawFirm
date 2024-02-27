@@ -1,0 +1,22 @@
+.FooterMainDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 376px;
+    gap: 5rem;
+}
+
+.FooterSectionOne{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 4rem;
+}
+
+.FooterSectionSec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    gap: 1rem;
+}

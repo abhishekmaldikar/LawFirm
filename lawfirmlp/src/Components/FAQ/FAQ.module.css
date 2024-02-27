@@ -1,0 +1,6 @@
+.FAQSubsection{
+    display: flex;
+    justify-content: center;
+    gap: 20vw;
+    margin-top: 2rem;
+}

@@ -1,0 +1,16 @@
+.TeamPreviewCardsMainDiv{
+    display: flex;
+    align-items: center;
+    background-color: inherit;
+    color: white;
+    width: 344px;
+    height: 109px;
+    border-radius: 20px;
+    transition: background-color 0.3s ;
+}
+
+.TeamPreviewCardsMainDiv:hover{
+    background-color:#E3B748;
+    cursor: pointer;
+    color: black;
+}

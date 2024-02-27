@@ -1,0 +1,17 @@
+.SubscribeSectionMainDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    background-color: #47474780;
+    color: white;
+    height: 356px;
+    border-radius: 10px;
+}
+.InputFields{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap : 0.2rem
+}
