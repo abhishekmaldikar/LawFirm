@@ -39,12 +39,12 @@ const Carousel = () => {
             backgroundColor : 'white',
             borderRadius : '50px',
             height: '90.61px',
-            width: '90.61px'
+            width: '90.61px',
+            display : "none"
         }}
         >
           <ArrowBackIcon fontSize={"large"} sx={{color : "black"}}  />
         </Button>
-        <NextButton />
       </Box>
       </Box>
       <Swiper
