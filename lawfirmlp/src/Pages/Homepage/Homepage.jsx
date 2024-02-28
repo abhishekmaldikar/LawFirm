@@ -9,6 +9,7 @@ import TeamPreview from '../../Components/TeamPreview/TeamPreview';
 import FAQ from '../../Components/FAQ/FAQ';
 import SubscribeSection from '../../Components/SubscribeSection/SubscribeSection';
 import Footer from '../../Components/Footer/Footer';
+import Carousel from '../../Components/Carousel/Carousel';
 
 const Homepage = () => {
   return (
@@ -18,6 +19,7 @@ const Homepage = () => {
         <Intro />
         <WhyChooseUs/>
         <AreaofPractices />
+        <Carousel />
         <TeamPreview />
         <FAQ />
         <SubscribeSection />

@@ -1,0 +1,18 @@
+.PrevButtonImg{
+    height: 90.61px;
+    width: 90.61px;
+
+}
+.arrowIcon{
+    position: absolute;
+    font-size: 3rem;
+    left: 21%;
+    top: 23%;
+}
+
+.MainDiv{
+    position: relative;
+    height: 90.61px;
+    width: 90.61px;
+    cursor: pointer;
+}
